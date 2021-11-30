@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 18 17:39:42 2021
-
-@author: kosuk
-"""
-
 import yfinance as yf
 import streamlit as st
 import pandas as pd
